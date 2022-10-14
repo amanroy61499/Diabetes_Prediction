@@ -20,3 +20,5 @@ SVM chooses the extreme points/vectors that help in creating the hyperplane. The
 <p>
     <img src="./diabet2.jpg" alt="Home Page" />
 </p>
+
+Google colab link:https://colab.research.google.com/drive/1Jh0f0GnRDchv-64_1Ymfb77LsDnRs-zQ#scrollTo=Xpw6Mj_pn_TL
